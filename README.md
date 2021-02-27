@@ -1,4 +1,4 @@
-# Tutorial
+# 0xtimistic 0xbitcoin
 
 Hello!
 This tutorial is an introduction to the process of developing applications on Optimistic Ethereum.
